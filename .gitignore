@@ -1,0 +1,10 @@
+# Directories
+.vs/
+backup/
+eigen3/
+include/
+lib/
+x64/
+
+# Files
+*.user
